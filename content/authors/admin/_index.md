@@ -64,25 +64,16 @@ education:
     date_start: 2021-09-01
     date_end: 2025-07-01
     summary: |
-      GPA: 89.13
 
 Work:
-  - position: Senior AI Research Scientist
-    company_name: Xingyun
-    company_url: 'https://ai.meta.com/'
+  - position: Software Development Intern
+    company_name: Xing Yun
+    company_url: 'https://www.xingyun.xin/'
     company_logo: ''
     date_start: 2025-04-01
     date_end: 2025-08-12
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
