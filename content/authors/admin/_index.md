@@ -27,7 +27,7 @@ role: PhD in Microelectronics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: HKUST(gz)
+  - name: The Hong Kong University of Science and Technology (Guangzhou)
     url: https://www.hkust-gz.edu.cn/
 
 # Social network links
@@ -37,7 +37,7 @@ profiles:
     url: 'zwang578@connect.hkust-gz.edu.cn'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/Tyxiaoyou
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alexjohnsonai/
   - icon: academicons/google-scholar
@@ -46,16 +46,15 @@ profiles:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
+  - Computer Architecture
+  - Hardware Security
   - Reinforcement Learning
-  - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD in Microelectronics
+    institution: HKUST(gz)
+    date_start: 2025-09-01
+    date_end: ~
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
