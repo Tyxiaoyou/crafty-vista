@@ -55,11 +55,11 @@ education:
     date_start: 2025-09-01
     date_end: ~
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on Computer Architecture.
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: BS Microelectronics
+  - area: BEng in Microelectronics
     institution: Tongji University
     date_start: 2021-09-01
     date_end: 2025-07-01
