@@ -59,30 +59,20 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+  - area: BS Microelectronics
+    institution: Tongji University
+    date_start: 2021-09-01
+    date_end: 2025-07-01
     summary: |
-      GPA: 4.0/4.0
+      GPA: 89.13
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
-
-work:
+Work:
   - position: Senior AI Research Scientist
-    company_name: Meta AI
+    company_name: Xingyun
     company_url: 'https://ai.meta.com/'
     company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
+    date_start: 2025-04-01
+    date_end: 2025-08-12
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
   - position: AI Research Intern
