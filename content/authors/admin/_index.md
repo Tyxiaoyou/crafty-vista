@@ -39,16 +39,15 @@ profiles:
   - icon: brands/github
     url: https://github.com/Tyxiaoyou
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/ziwenwangQAQ/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: 
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0004-5623-9720
 
 interests:
   - Computer Architecture
   - Hardware Security
-  - Reinforcement Learning
 
 education:
   - area: PhD in Microelectronics
